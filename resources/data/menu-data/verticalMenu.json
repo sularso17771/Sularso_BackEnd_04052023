@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Customer",
+      "icon": "user",
+      "slug": "customers"
+    },
+    { 
+      "url": "/transactions",
+      "name": "Transaction",
+      "icon": "file-text",
+      "slug": "transactions"
+    },
+    {
+      "url": "/point",
+      "name": "Customer Point",
+      "icon": "check-circle",
+      "slug": "point"
+    },
+    {
+      "url": "/report",
+      "name": "Report",
+      "icon": "printer",
+      "slug": "report"
+    }
+  ]
+}
