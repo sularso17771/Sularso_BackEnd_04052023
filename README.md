@@ -15,6 +15,8 @@ Expressive, intuitive database ORM. Database agnostic schema migrations. Robust 
 
 ## Installation
 * `clone this repository`
+* `create database laravel`
+* `copy & replace .env.example .env`
 * `composer update`
 * `npm run production`
 * `npm install`
